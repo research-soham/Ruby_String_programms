@@ -9,4 +9,4 @@ end
 
 # Obj
 obj=String_method.new
-p obj.convert_upercase(@a)
+p obj.convert_upercase($a)
